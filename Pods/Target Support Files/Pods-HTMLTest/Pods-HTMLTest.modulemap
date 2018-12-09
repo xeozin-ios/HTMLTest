@@ -1,0 +1,6 @@
+framework module Pods_HTMLTest {
+  umbrella header "Pods-HTMLTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
